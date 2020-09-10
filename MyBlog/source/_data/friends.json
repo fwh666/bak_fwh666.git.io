@@ -1,0 +1,15 @@
+[
+    {
+	    "avatar": "/medias/avatars/hwsun.jpg",
+	    "name": "文浩の博客",
+	    "introduction": "这个人很懒，什么都木有留下~😷",
+	    "url": "https://fuwenhao.club/",
+	    "title": "偷看一下"
+    },{
+        "name": "Blinkfox",
+        "url": "https://blinkfox.github.io",
+        "title": "前去学习",
+        "introduction": "闪烁之狐大佬做的hexo主题很棒，人也比较好！",
+        "avatar": "https://blinkfox.github.io/medias/avatar.jpg"
+    }
+]
