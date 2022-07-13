@@ -5,7 +5,7 @@ title: 03-Spring之底层架构核心概念解析
 date: 2021-02-03 21:41:03
 author: 文浩
 img:
-coverImg: https://baseoss.fuwenhao.club/banner/09.jpg
+coverImg: http://oes.fuwenhao.club/images/banner/09.jpg
 top: false
 cover: false
 toc: false

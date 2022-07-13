@@ -5,7 +5,7 @@ title: 云南旅行随笔
 date: 2021-05-15 21:41:03
 author: 文浩
 img:
-coverImg: https://baseoss.fuwenhao.club/banner/09.jpg
+coverImg: http://oes.fuwenhao.club/images/banner/09.jpg
 top: true
 cover: true
 toc: true

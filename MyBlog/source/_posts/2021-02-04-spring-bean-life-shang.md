@@ -5,7 +5,7 @@ title: 04-Spring之Bean生命周期源码解析-上
 date: 2021-02-04 21:41:03
 author: 文浩
 img:
-coverImg: https://baseoss.fuwenhao.club/banner/09.jpg
+coverImg: http://oes.fuwenhao.club/images/banner/09.jpg
 top: false
 cover: false
 toc: false

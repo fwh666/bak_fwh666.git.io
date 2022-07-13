@@ -104,7 +104,7 @@ recommend:
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
 favicon: /favicon.png
-logo: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/logo/logo.png
+logo: http://oes.fuwenhao.club/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -182,7 +182,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/logo/logo.png
+  avatar: http://oes.fuwenhao.club/logo.png
   career: 这个人很懒，什么都没有留下……
   introduction: Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.
       <想要收获自由之果的人，必须承受维护自由的劳苦。>
@@ -393,30 +393,30 @@ libs:
 # The post featured images that needs to be displayed when there is no image.
 # 无文章特色图片时需要显示的文章特色图片.
 featureImages: 
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/0.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/1.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/2.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/3.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/4.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/5.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/6.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/7.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/8.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/9.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/10.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/11.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/12.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/13.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/14.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/15.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/16.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/17.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/18.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/19.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/20.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/21.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/22.jpg
-- https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/featureimages/23.jpg
+- http://oes.fuwenhao.club/featureimages/0.jpg
+- http://oes.fuwenhao.club/featureimages/1.jpg
+- http://oes.fuwenhao.club/featureimages/2.jpg
+- http://oes.fuwenhao.club/featureimages/3.jpg
+- http://oes.fuwenhao.club/featureimages/4.jpg
+- http://oes.fuwenhao.club/featureimages/5.jpg
+- http://oes.fuwenhao.club/featureimages/6.jpg
+- http://oes.fuwenhao.club/featureimages/7.jpg
+- http://oes.fuwenhao.club/featureimages/8.jpg
+- http://oes.fuwenhao.club/featureimages/9.jpg
+- http://oes.fuwenhao.club/featureimages/10.jpg
+- http://oes.fuwenhao.club/featureimages/11.jpg
+- http://oes.fuwenhao.club/featureimages/12.jpg
+- http://oes.fuwenhao.club/featureimages/13.jpg
+- http://oes.fuwenhao.club/featureimages/14.jpg
+- http://oes.fuwenhao.club/featureimages/15.jpg
+- http://oes.fuwenhao.club/featureimages/16.jpg
+- http://oes.fuwenhao.club/featureimages/17.jpg
+- http://oes.fuwenhao.club/featureimages/18.jpg
+- http://oes.fuwenhao.club/featureimages/19.jpg
+- http://oes.fuwenhao.club/featureimages/20.jpg
+- http://oes.fuwenhao.club/featureimages/21.jpg
+- http://oes.fuwenhao.club/featureimages/22.jpg
+- http://oes.fuwenhao.club/featureimages/23.jpg
 
   # default configs that the default policy for every articles/posts
   # default 配置文章的默认转载规则
