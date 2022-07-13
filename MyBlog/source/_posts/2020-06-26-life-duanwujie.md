@@ -10,8 +10,8 @@ categories: [Life]
 description: 端午假期一个人宅出一片天地
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 ## 序：

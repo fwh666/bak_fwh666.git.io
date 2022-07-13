@@ -4,9 +4,9 @@ date: 2020-08-30 21:41:03
 author: 文浩
 img:
 coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/04.jpg
-top: true
-cover: true
-toc: true
+top: false
+cover: false
+toc: false
 mathjax: false
 summary:
 tags:
@@ -20,8 +20,8 @@ password:
 # 序：
 > 不能丧失了对生活的热爱，一个人也要学会丰富自己的精神世界
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="480353" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>

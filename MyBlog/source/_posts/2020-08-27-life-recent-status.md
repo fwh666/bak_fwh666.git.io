@@ -14,8 +14,8 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 > 往前看，人生仿佛遥不可及，往后看，却又咫尺可量。
 
 >PS：👇背景音乐会自动播放的。不行就戳一下👇
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="578090" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>

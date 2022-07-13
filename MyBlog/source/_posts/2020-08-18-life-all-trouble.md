@@ -13,8 +13,8 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 > 所有的麻烦接踵而至，唯有乐观才能迎难而上。
 
 >PS：👇背景音乐会自动播放的。不行就戳一下👇
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="1468751214" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>

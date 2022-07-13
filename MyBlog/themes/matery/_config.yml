@@ -182,7 +182,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/blog/hwsun.jpg
+  avatar: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/logo/logo.png
   career: 这个人很懒，什么都没有留下……
   introduction: Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.
       <想要收获自由之果的人，必须承受维护自由的劳苦。>
@@ -340,7 +340,7 @@ googleAnalytics:
 # 使用到的前端库，可按需替换成对应的CDN地址，如果下面未指定具体的版本号，使用最新的版本即可.
 libs:
   css:
-    fontAwesome: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/font-awesome.min.css # V4.7.0
+    fontAwesome: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css//font-awesome.min.css # V4.7.0
     materialize: /libs/materialize/materialize.min.css # 1.0.0
     aos: /libs/aos/aos.css
     animate: /libs/animate/animate.min.css # V3.5.1
@@ -354,8 +354,8 @@ libs:
     fancybox: https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.css
     justifiedGallery: https://cdn.staticfile.org/justifiedGallery/3.7.0/css/justifiedGallery.min.css
     share: /libs/share/css/share.min.css
-    my: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/my.css
-    matery: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css/matery.css
+    my: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css//my.css
+    matery: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/css//matery.css
   js:
     jquery: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/jquery-2.2.0.min.js
     materialize: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/materialize.min.js # 1.0.0

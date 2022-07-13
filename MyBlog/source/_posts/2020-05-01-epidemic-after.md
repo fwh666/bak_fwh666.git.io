@@ -2,7 +2,7 @@
 layout: post
 lock: need
 title: 论--疫情之后我们要选择过怎样的人生？
-date: 2020-09-05 21:41:03
+date: 2020-05-01 21:41:03
 author: 文浩
 tags:
   - Life
